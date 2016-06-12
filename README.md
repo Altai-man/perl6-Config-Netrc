@@ -16,7 +16,7 @@ DESCRIPTION
 
 There are basically two main functions: parse and parse-file. First function takes a string of netrc-file content and returns to you a hash with some signature or Nil value if parser failed.
 
-This hash contains of two arrays: `comments` and `entries`. In the section comments you will get all comment strings(without leadint `#`) and in the entries section you get array of hashes with this structure:
+This hash contains of two arrays: `comments` and `entries`. In the section comments you will get all comment strings(without leading `#`) and in the entries section you get array of hashes with this structure:
 
 ```
 machine  => {value => val, comment => my-comment},
