@@ -34,7 +34,6 @@ You will be able to use this hash to determine state of user's Netrc file state.
 
 TODO
 ====
-* Add writer
 * Detection of user's config file at his `home` directory
 
 COPYRIGHT
