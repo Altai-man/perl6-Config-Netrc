@@ -30,7 +30,7 @@ machine val # my-comment
 ```
 is also optional.
 
-You will be able to use this hash to determine state of user's Netrc file state. This is definetly not the end and more features are coming.
+You will be able to use this hash to determine state of user's Netrc file state.
 
 TODO
 ====
